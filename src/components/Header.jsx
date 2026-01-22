@@ -35,7 +35,7 @@ export const Header = () => {
         name:"Sign In"
       },
       {
-        icon:<BsCart />,
+        icon:" ",
         name:"Cart"
       }
     ]
