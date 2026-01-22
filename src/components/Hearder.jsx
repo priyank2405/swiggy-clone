@@ -8,9 +8,6 @@ import { BsCart } from "react-icons/bs";
 
 
 
-
-
-
 export const Header = () => {
     const [toggle, setToggle] = useState(false)
 
