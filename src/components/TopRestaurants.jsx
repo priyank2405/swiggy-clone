@@ -1,19 +1,11 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Card } from "./Card";
-import { FaArrowRight, FaArrowLeft  } from "react-icons/fa";
+import { FaArrowRight, FaArrowLeft } from "react-icons/fa";
+import topRestaurants from "../data/TopRestaurents.json";
 
 export const TopRestaurants = () => {
-  const [data, setData] = useState([]);
+  const [data] = useState(topRestaurants);
   const [slide, setSlide] = useState(0);
-
-  useEffect(() => {
-    const fetchTopRestaurant = async () => {
-      const response = await fetch("http://localhost:5173/data/TopRestaurents.json");
-      const apiData = await response.json();
-      setData(apiData);
-    };
-    fetchTopRestaurant();
-  }, []);
 
   const visibleItems = 4;
   const cardWidth = 320;
@@ -29,10 +21,10 @@ export const TopRestaurants = () => {
   };
 
   return (
-    <div className="max-w-[1200px] mx-auto text-[#686b78] mb-[100px]">
+    <div className="max-w-[1270px] mx-auto text-[#686b78] mb-[100px]">
       <div className="flex items-center justify-between my-3">
         <div className="text-[25px] font-bold text-black">
-          Top restaurants in Dehradun
+          Top restaurants chains in Dehradun
         </div>
 
         <div className="flex">
@@ -52,9 +44,7 @@ export const TopRestaurants = () => {
         </div>
       </div>
 
-      {/* Outer viewport */}
       <div className="overflow-hidden">
-        {/* Sliding track */}
         <div
           className="flex gap-5 transition-transform duration-300"
           style={{
@@ -66,7 +56,8 @@ export const TopRestaurants = () => {
           ))}
         </div>
       </div>
-       <hr className="my-7 border=[2px]" />
+
+      <hr className="my-7 border-[0.px]" />
     </div>
   );
 };
