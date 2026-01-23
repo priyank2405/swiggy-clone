@@ -31,7 +31,7 @@ export const Header = () => {
         <div className="max-w-[1200px] h-[50px] mx-auto flex items-center">
           <div className="w-[55px] mr-8">
             <img
-              src="images/logo_swiggy.jpg"
+              src="src/assets/logo-images/logo_swiggy.jpg"
               alt="swiggy logo"
               className="w-full rounded-[13px]"
             />
@@ -39,7 +39,8 @@ export const Header = () => {
 
           <div>
             <span className="font-bold border-b-[3px] text-[#02060CE6]">
-              Others </span>
+              Others{" "}
+            </span>
             Rispana Pull, Dehradun, Uttarakhand, India
             <PiCaretDownLight
               fontSize={20}
@@ -51,9 +52,7 @@ export const Header = () => {
             {links.map((link, index) => (
               <li
                 key={index}
-                onClick={() =>
-                  link.name === "Sign In" && setShowSignIn(true)
-                }
+                onClick={() => link.name === "Sign In" && setShowSignIn(true)}
                 className="flex font-[16px] text-[#02060CE6] hover:text-[#fc8019] items-center gap-2 cursor-pointer"
               >
                 {link.icon}

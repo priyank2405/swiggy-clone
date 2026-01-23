@@ -1,22 +1,22 @@
 import { useState } from "react";
 import { FaArrowRight, FaArrowLeft } from "react-icons/fa";
-import categoryData from "../data/category.json";
+import categoryData from "../data/Category.json";
 
 export const Category = () => {
   const [category] = useState(categoryData);
   const [slide, setSlide] = useState(0);
 
   const visibleItems = 7;
-  const cardWidth = 150;
+  const cardWidth = 166;
 
   const prevSlide = () => {
     if (slide === 0) return;
-    setSlide(slide - 4);
+    setSlide(slide - 3);
   };
 
   const nextSlide = () => {
     if (slide >= category.length - visibleItems) return;
-    setSlide(slide + 4);
+    setSlide(slide + 3);
   };
 
   return (
@@ -43,7 +43,7 @@ export const Category = () => {
         </div>
       </div>
 
-      <div className="overflow-hidden">
+      <div className="overflow-hidden w-[1162px] ml-15">
         <div
           className="flex gap-4 transition-transform duration-300"
           style={{
@@ -51,22 +51,19 @@ export const Category = () => {
           }}
         >
           {category.map((item) => (
-            <div
-              key={item.id}
-              className="shrink-0 w-[150px] text-center"
-            >
+            <div key={item.id} className="shrink-0 w-[150px] text-center">
               <img
-                src={`/api-images/${item.image}`}
-                alt={item.name}
-                className="w-[155px] h-[150px] object-cover mx-auto"
+                src={item.image}
+                alt="broken-img"
+                className="w-[155px] h-[145apx] object-cover mx-auto"
               />
-              <p className="mt-2 font-medium">{item.name}</p>
+              <p className="mt-9 font-medium ">{item.name}</p>
             </div>
           ))}
         </div>
       </div>
 
-      <hr className="my-7 border-[0.px]" />
+      <hr className="my-6 border-[0.px]" />
     </div>
   );
 };

@@ -21,7 +21,7 @@ export const TopRestaurants = () => {
   };
 
   return (
-    <div className="max-w-[1270px] mx-auto text-[#686b78] mb-[100px]">
+    <div className="max-w-[1270px] mx-auto text-[#686b78] mb-[50px]">
       <div className="flex items-center justify-between my-3">
         <div className="text-[25px] font-bold text-black">
           Top restaurants chains in Dehradun
@@ -52,12 +52,12 @@ export const TopRestaurants = () => {
           }}
         >
           {data.map((d, i) => (
-            <Card {...d} key={i} />
+            <Card key={i} {...d} image={d.image} />
           ))}
         </div>
       </div>
 
-      <hr className="my-7 border-[0.px]" />
+      <hr className="my-12 border-[0.px]" />
     </div>
   );
 };
