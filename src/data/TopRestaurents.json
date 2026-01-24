@@ -1,6 +1,6 @@
 [
   {
-    "image": "src/assets/top-restaurent-images/doon-pizza.jpeg",
+    "image": "/top-restaurent-images/doon-pizza.jpeg",
     "offer": "₹100 OFF ABOVE ₹299",
     "title": "Doon Pizza Hub",
     "rating": 4.3,
@@ -10,7 +10,7 @@
     "place": "Rajpur Road"
   },
   {
-    "image": "src/assets/top-restaurent-images/elloras-melody.jpeg",
+    "image": "/top-restaurent-images/elloras-melody.jpeg",
     "offer": "₹75 OFF ABOVE ₹249",
     "title": "Ellora’s Melody",
     "rating": 4.5,
@@ -20,7 +20,7 @@
     "place": "Paltan Bazaar"
   },
   {
-    "image": "src/assets/top-restaurent-images/punjabi-tadka.jpeg",
+    "image": "/top-restaurent-images/punjabi-tadka.jpeg",
     "offer": "Items at ₹199",
     "title": "Punjabi Tadka",
     "rating": 4.2,
@@ -30,7 +30,7 @@
     "place": "ISBT"
   },
   {
-    "image": "src/assets/top-restaurent-images/chilli-pepper.jpeg",
+    "image": "/top-restaurent-images/chilli-pepper.jpeg",
     "offer": "₹60 OFF ABOVE ₹199",
     "title": "Chilli Pepper",
     "rating": 4.4,
@@ -40,7 +40,7 @@
     "place": "Ballupur"
   },
   {
-    "image": "src/assets/top-restaurent-images/biryani-blues.jpeg",
+    "image": "/top-restaurent-images/biryani-blues.jpeg",
     "offer": "₹120 OFF ABOVE ₹399",
     "title": "Biryani Blues",
     "rating": 4.6,
@@ -50,7 +50,7 @@
     "place": "Jakhan"
   },
   {
-    "image": "src/assets/top-restaurent-images/ama-cafe.jpeg",
+    "image": "/top-restaurent-images/ama-cafe.jpeg",
     "offer": "₹50 OFF ABOVE ₹149",
     "title": "Ama Cafe",
     "rating": 4.7,
@@ -60,7 +60,7 @@
     "place": "Rajpur Road"
   },
   {
-    "image": "src/assets/top-restaurent-images/south-indian-corner.jpeg",
+    "image": "/top-restaurent-images/south-indian-corner.jpeg",
     "offer": "Items at ₹149",
     "title": "South Indian Corner",
     "rating": 4.1,
@@ -70,7 +70,7 @@
     "place": "Dalanwala"
   },
   {
-    "image": "src/assets/top-restaurent-images/burger-junction.jpeg",
+    "image": "/top-restaurent-images/burger-junction.jpeg",
     "offer": "₹90 OFF ABOVE ₹249",
     "title": "Burger Junction",
     "rating": 4.3,
@@ -80,7 +80,7 @@
     "place": "Prem Nagar"
   },
   {
-    "image": "src/assets/top-restaurent-images/sweet-magic.jpeg",
+    "image": "/top-restaurent-images/sweet-magic.jpeg",
     "offer": "₹70 OFF ABOVE ₹199",
     "title": "Sweet Magic",
     "rating": 4.4,
@@ -90,7 +90,7 @@
     "place": "Clock Tower"
   },
   {
-    "image": "src/assets/top-restaurent-images/himalayan-thali.jpeg",
+    "image": "/top-restaurent-images/himalayan-thali.jpeg",
     "offer": "₹110 OFF ABOVE ₹349",
     "title": "Himalayan Thali House",
     "rating": 4.5,

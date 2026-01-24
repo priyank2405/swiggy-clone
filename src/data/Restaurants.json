@@ -1,6 +1,6 @@
 [
   {
-    "image": "src/assets/restaurant-images/pizza-hut.jpeg",
+    "image": "/restaurant-images/pizza-hut.jpeg",
     "offer": "ITEMS AT ₹59",
     "title": "Pizza Hut",
     "rating": 4.2,
@@ -10,7 +10,7 @@
     "place": "Bank Colony"
   },
   {
-    "image": "src/assets/restaurant-images/chilliz-restro.jpeg",
+    "image": "/restaurant-images/chilliz-restro.jpeg",
     "offer": "ITEMS AT ₹39",
     "title": "Chilli'z Restro",
     "rating": 4.2,
@@ -20,7 +20,7 @@
     "place": "Dharampur"
   },
   {
-    "image": "src/assets/restaurant-images/punjabi-angithi.jpeg",
+    "image": "/restaurant-images/punjabi-angithi.jpeg",
     "offer": "50% OFF",
     "title": "Punjabi Angithi (Delhi Wale)",
     "rating": 4.4,
@@ -30,7 +30,7 @@
     "place": "Hathibarkala"
   },
   {
-    "image": "src/assets/restaurant-images/handi-punjab-ki.jpeg",
+    "image": "/restaurant-images/handi-punjab-ki.jpeg",
     "offer": "ITEMS AT ₹89",
     "title": "Handi Punjab Ki",
     "rating": 4.4,
@@ -40,7 +40,7 @@
     "place": "Hathibarkala Salwala"
   },
   {
-    "image": "src/assets/restaurant-images/gaylord-express.jpeg",
+    "image": "/restaurant-images/gaylord-express.jpeg",
     "offer": "ITEMS AT ₹89",
     "title": "Gaylord Express",
     "rating": 3.9,
@@ -50,7 +50,7 @@
     "place": "Paltan Bazaar"
   },
   {
-    "image": "src/assets/restaurant-images/punjabi-dhaba-pure-veg.jpeg",
+    "image": "/restaurant-images/punjabi-dhaba-pure-veg.jpeg",
     "offer": "60% OFF UPTO ₹120",
     "title": "Punjabi Dhaba Pure Veg",
     "rating": 4.0,
@@ -60,7 +60,7 @@
     "place": "Chukkuwala"
   },
   {
-    "image": "src/assets/restaurant-images/rajdhani-chicken-point.jpeg",
+    "image": "/restaurant-images/rajdhani-chicken-point.jpeg",
     "offer": "ITEMS AT ₹149",
     "title": "Rajdhani Chicken Point",
     "rating": 4.2,
@@ -70,7 +70,7 @@
     "place": "Gandhi Road"
   },
   {
-    "image": "src/assets/restaurant-images/khadak-singh-da-dhaba.jpeg",
+    "image": "/restaurant-images/khadak-singh-da-dhaba.jpeg",
     "offer": "ITEMS AT ₹129",
     "title": "Khadak Singh Da Dhaba",
     "rating": 4.3,
@@ -80,7 +80,7 @@
     "place": "Krishna Nagar"
   },
   {
-    "image": "src/assets/restaurant-images/walk-in-woods.jpeg",
+    "image": "/restaurant-images/walk-in-woods.jpeg",
     "offer": "ITEMS AT ₹149",
     "title": "Walk In Woods",
     "rating": 4.4,
@@ -90,7 +90,7 @@
     "place": "Dharampur"
   },
   {
-    "image": "src/assets/restaurant-images/kfc.jpeg",
+    "image": "/restaurant-images/kfc.jpeg",
     "offer": "50% OFF",
     "title": "KFC",
     "rating": 4.5,
@@ -100,7 +100,7 @@
     "place": "EC Road"
   },
   {
-    "image": "src/assets/restaurant-images/la-pinoz-pizza.jpeg",
+    "image": "/restaurant-images/la-pinoz-pizza.jpeg",
     "offer": "ITEMS AT ₹99",
     "title": "La Pino'z Pizza",
     "rating": 4.4,
@@ -110,7 +110,7 @@
     "place": "Pitambar Plaza"
   },
   {
-    "image": "src/assets/restaurant-images/burger-king.jpeg",
+    "image": "/restaurant-images/burger-king.jpeg",
     "offer": "ITEMS AT ₹59",
     "title": "Burger King",
     "rating": 4.5,
@@ -120,7 +120,7 @@
     "place": "Dehradun"
   },
   {
-    "image": "src/assets/restaurant-images/belgian-waffle.jpeg",
+    "image": "/restaurant-images/belgian-waffle.jpeg",
     "offer": "ITEMS AT ₹90",
     "title": "The Belgian Waffle Co.",
     "rating": 4.6,
@@ -130,7 +130,7 @@
     "place": "Chukkuwala"
   },
   {
-    "image": "src/assets/restaurant-images/captain-sams-pizza.jpeg",
+    "image": "/restaurant-images/captain-sams-pizza.jpeg",
     "offer": "ITEMS AT ₹9",
     "title": "Captain Sam's Pizza",
     "rating": 3.9,
@@ -140,7 +140,7 @@
     "place": "Chukkuwala"
   },
   {
-    "image": "src/assets/restaurant-images/igp-cakes.jpeg",
+    "image": "/restaurant-images/igp-cakes.jpeg",
     "offer": "ITEMS AT ₹39",
     "title": "IGP Cakes",
     "rating": 4.5,
@@ -150,7 +150,7 @@
     "place": "Deh Patel Nagar"
   },
   {
-    "image": "src/assets/restaurant-images/honest-bowl.jpeg",
+    "image": "/restaurant-images/honest-bowl.jpeg",
     "offer": "60% OFF UPTO ₹120",
     "title": "Honest Bowl",
     "rating": 4.5,
@@ -160,7 +160,7 @@
     "place": "Central Doon"
   },
   {
-    "image": "src/assets/restaurant-images/ahuja-chinese-food-court.jpeg",
+    "image": "/restaurant-images/ahuja-chinese-food-court.jpeg",
     "offer": "ITEMS AT ₹39",
     "title": "Ahuja Chinese Food Court",
     "rating": 3.9,
@@ -170,7 +170,7 @@
     "place": "Dehradun Nagar Nigam"
   },
   {
-    "image": "src/assets/restaurant-images/cheesecake-and-co.jpeg",
+    "image": "/restaurant-images/cheesecake-and-co.jpeg",
     "offer": "₹225 OFF ABOVE ₹899",
     "title": "Cheesecake & Co",
     "rating": 4.6,
@@ -180,7 +180,7 @@
     "place": "Chukkuwala"
   },
   {
-    "image": "src/assets/restaurant-images/the-golden-wok.jpeg",
+    "image": "/restaurant-images/the-golden-wok.jpeg",
     "offer": "50% OFF UPTO ₹100",
     "title": "The Golden Wok",
     "rating": 4.0,
@@ -190,7 +190,7 @@
     "place": "Dharampur"
   },
   {
-    "image": "src/assets/restaurant-images/swaad-punjab-da.jpeg",
+    "image": "/restaurant-images/swaad-punjab-da.jpeg",
     "offer": "ITEMS AT ₹101",
     "title": "Swaad Punjab Da",
     "rating": 4.0,
@@ -200,7 +200,7 @@
     "place": "Nehru Colony C Block"
   },
   {
-    "image": "src/assets/restaurant-images/da-pepper-pizza.jpeg",
+    "image": "/restaurant-images/da-pepper-pizza.jpeg",
     "offer": "ITEMS AT ₹109",
     "title": "Da Pepper Pizza",
     "rating": 3.5,
@@ -210,7 +210,7 @@
     "place": "Karanpur"
   },
   {
-    "image": "src/assets/restaurant-images/bakingo.jpeg",
+    "image": "/restaurant-images/bakingo.jpeg",
     "offer": "60% OFF UPTO ₹120",
     "title": "Bakingo",
     "rating": 4.6,
@@ -220,7 +220,7 @@
     "place": "Dehradun Nagar"
   },
   {
-    "image": "src/assets/restaurant-images/theobroma.jpeg",
+    "image": "/restaurant-images/theobroma.jpeg",
     "offer": "50% OFF",
     "title": "Theobroma",
     "rating": 4.5,
@@ -230,7 +230,7 @@
     "place": "Rajpur Road"
   },
   {
-    "image": "src/assets/restaurant-images/bikkgane-biryani.jpeg",
+    "image": "/restaurant-images/bikkgane-biryani.jpeg",
     "offer": "ITEMS AT ₹89",
     "title": "Bikkgane Biryani",
     "rating": 4.4,
@@ -240,7 +240,7 @@
     "place": "Ballupur"
   },
   {
-    "image": "src/assets/restaurant-images/behrouz-biryani.jpeg",
+    "image": "/restaurant-images/behrouz-biryani.jpeg",
     "offer": "ITEMS AT ₹99",
     "title": "Behrouz Biryani",
     "rating": 4.3,
@@ -250,7 +250,7 @@
     "place": "Central Doon"
   },
   {
-    "image": "src/assets/restaurant-images/faasos-wraps.jpeg",
+    "image": "/restaurant-images/faasos-wraps.jpeg",
     "offer": "ITEMS AT ₹29",
     "title": "Faasos - Wraps, Rolls & Bowls",
     "rating": 4.4,
@@ -260,7 +260,7 @@
     "place": "Central Doon"
   },
   {
-    "image": "src/assets/restaurant-images/lunchbox-meals.jpeg",
+    "image": "/restaurant-images/lunchbox-meals.jpeg",
     "offer": "ITEMS AT ₹139",
     "title": "LunchBox - Meals and Thalis",
     "rating": 4.3,
@@ -270,7 +270,7 @@
     "place": "Central Doon"
   },
   {
-    "image": "src/assets/restaurant-images/wow-momo.jpeg",
+    "image": "/restaurant-images/wow-momo.jpeg",
     "offer": "ITEMS AT ₹69",
     "title": "Wow! Momo",
     "rating": 3.8,
@@ -280,7 +280,7 @@
     "place": "Mall of Dehradun"
   },
   {
-    "image": "src/assets/restaurant-images/99-square-pizza.jpeg",
+    "image": "/restaurant-images/99-square-pizza.jpeg",
     "offer": "ITEMS AT ₹99",
     "title": "99 Square Pizza",
     "rating": 5.0,
@@ -290,7 +290,7 @@
     "place": "Central Doon"
   },
   {
-    "image": "src/assets/restaurant-images/mughal-zaika.jpeg",
+    "image": "/restaurant-images/mughal-zaika.jpeg",
     "offer": "",
     "title": "Mughal Zaika",
     "rating": 3.8,
@@ -300,7 +300,7 @@
     "place": "Paltan Bazaar"
   },
   {
-    "image": "src/assets/restaurant-images/bharawan-da-dhaba.jpeg",
+    "image": "/restaurant-images/bharawan-da-dhaba.jpeg",
     "offer": "₹100 OFF ABOVE ₹499",
     "title": "Bharawan Da Dhaba",
     "rating": 4.2,
@@ -310,7 +310,7 @@
     "place": "Chukkuwala"
   },
   {
-    "image": "src/assets/restaurant-images/pandit-ji-sweets.jpeg",
+    "image": "/restaurant-images/pandit-ji-sweets.jpeg",
     "offer": "ITEMS AT ₹69",
     "title": "Pandit Ji Sweets & Restaurant",
     "rating": 4.2,
@@ -320,7 +320,7 @@
     "place": "Chironwali"
   },
   {
-    "image": "src/assets/restaurant-images/food-nagri.jpeg",
+    "image": "/restaurant-images/food-nagri.jpeg",
     "offer": "ITEMS AT ₹102",
     "title": "Food Nagri",
     "rating": 4.1,
@@ -330,7 +330,7 @@
     "place": "Ballupur"
   },
   {
-    "image": "src/assets/restaurant-images/tapri-the-teafe.jpeg",
+    "image": "/restaurant-images/tapri-the-teafe.jpeg",
     "offer": "ITEMS AT ₹89",
     "title": "Tapri - The Teafe",
     "rating": 4.5,
@@ -340,7 +340,7 @@
     "place": "Hathibarkala Salwala"
   },
   {
-    "image": "src/assets/restaurant-images/punjabi-patakha.jpeg",
+    "image": "/restaurant-images/punjabi-patakha.jpeg",
     "offer": "ITEMS AT ₹29",
     "title": "Punjabi Patakka",
     "rating": 3.7,
@@ -350,7 +350,7 @@
     "place": "Niranjanpur"
   },
   {
-    "image": "src/assets/restaurant-images/dilli-dine.jpeg",
+    "image": "/restaurant-images/dilli-dine.jpeg",
     "offer": "ITEMS AT ₹149",
     "title": "Dilli Dine",
     "rating": 3.5,
@@ -360,7 +360,7 @@
     "place": "Niranjanpur"
   },
   {
-    "image": "src/assets/restaurant-images/zam-zam-family-restaurant.jpeg",
+    "image": "/restaurant-images/zam-zam-family-restaurant.jpeg",
     "offer": "ITEMS AT ₹119",
     "title": "Zam Zam Family Restaurant",
     "rating": 4.1,
@@ -370,7 +370,7 @@
     "place": "Deh Patel Nagar"
   },
   {
-    "image": "src/assets/restaurant-images/brick-house-kitchen.jpeg",
+    "image": "/restaurant-images/brick-house-kitchen.jpeg",
     "offer": "ITEMS AT ₹89",
     "title": "Brick House Kitchen",
     "rating": 4.2,
@@ -380,7 +380,7 @@
     "place": "Sahastradhara Crossing"
   },
   {
-    "image": "src/assets/restaurant-images/ovenfresh-baking-cakes.jpeg",
+    "image": "/restaurant-images/ovenfresh-baking-cakes.jpeg",
     "offer": "50% OFF",
     "title": "Ovenfresh - Baking Cakes Since 2015",
     "rating": 4.5,
@@ -390,7 +390,7 @@
     "place": "Subhash Road"
   },
   {
-    "image": "src/assets/restaurant-images/crustos-cheese-burst-pizza.jpeg",
+    "image": "/restaurant-images/crustos-cheese-burst-pizza.jpeg",
     "offer": "ITEMS AT ₹119",
     "title": "Crusto's - Cheese Burst Pizza Bar",
     "rating": 4.3,
@@ -400,5 +400,3 @@
     "place": "Subhash Road"
   }
 ]
-
-

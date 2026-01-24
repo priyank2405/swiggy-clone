@@ -31,7 +31,7 @@ export const Header = () => {
         <div className="max-w-[1200px] h-[50px] mx-auto flex items-center">
           <div className="w-[55px] mr-8">
             <img
-              src="src/assets/logo-images/logo_swiggy.jpg"
+              src="/logo-images/logo_swiggy.jpg"
               alt="swiggy logo"
               className="w-full rounded-[13px]"
             />
