@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FaArrowRight, FaArrowLeft } from "react-icons/fa";
-import categoryData from "../data/Category.json";
+import categoryData from "../data/category.json";
 
 export const Category = () => {
   const [category] = useState(categoryData);
